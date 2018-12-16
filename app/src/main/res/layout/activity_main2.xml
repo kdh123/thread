@@ -23,7 +23,7 @@
 
     <Button
         android:id="@+id/view1"
-        android:text="화면1"
+        android:text="화면2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 

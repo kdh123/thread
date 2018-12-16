@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         thread1.start();
     }
 
-
+//수정입니다
     protected void onPause() {
         super.onPause();
 
