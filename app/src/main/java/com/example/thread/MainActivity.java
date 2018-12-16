@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 //수정입니다
+    //그래래래래래래래랠
     protected void onPause() {
         super.onPause();
 
